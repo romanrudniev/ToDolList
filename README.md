@@ -1,4 +1,5 @@
 <h1 style="strong">What is this project for:</h1>
+:smile:
 This is my first Django project
 <br>I study in it
 <hr>
