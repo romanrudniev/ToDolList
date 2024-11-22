@@ -16,16 +16,19 @@ Open the terminal and write:
 <hr>
 <hr>
 <h1 style="strong">Для чого цей проєкт:</h1>
+:smile:
 Це мій перший проєкт на Django
 <br>Я вчюся у ньому
 <hr>
 <h1>Як запустити проєкт:</h1>
 <br>
-Відкриваємо термінал і пишимо:
+1.Відкриваємо термінал і пишимо:
 <br>
-1)cd todoproject
+- cd todoproject
 <br>
-2)python manage.py runserver
+- python manage.py runserver
 <br>
-3)перейдіть за силкою яка буде в терміналі(http://127.0.0.1:8000/)
+- перейдіть за силкою яка буде в терміналі(http://127.0.0.1:8000/)
+<hr>
+
 
