@@ -3,6 +3,14 @@
 This is my first Django project
 <br>I study in it
 <hr>
+<h1>How to install the project:</h1>
+1)Click "Download ZIP"
+<br>
+2)Unzip the downloaded file
+<br>
+3)Unzip the folder in your Idea (for example PyCharm)
+<br>
+4)You MUST select an interpreter
 <h1>How to start the project:</h1>
 <br>
 Open the terminal and write:
@@ -20,15 +28,21 @@ Open the terminal and write:
 Це мій перший проєкт на Django
 <br>Я вчюся у ньому
 <hr>
+<h1>Як встановити проєкт:</h1>
+1)Натискаємо "Скачати ZIP"
+<br>
+2)Розархівовуємо скачаний файл
+<br>
+3)Відкиваємо папку у своєму Idea (наприклад PyCharm)
+<br>
+4)ОБОВЯЗКОВО треба вибрати ітерпритатор
 <h1>Як запустити проєкт:</h1>
 <br>
-1.Відкриваємо термінал і пишимо:
+Відкриваємо термінал і пишимо:
 <br>
-- cd todoproject
+1)cd todoproject
 <br>
-- python manage.py runserver
+2)python manage.py runserver
 <br>
-- перейдіть за силкою яка буде в терміналі(http://127.0.0.1:8000/)
+3)перейдіть за силкою яка буде в терміналі(http://127.0.0.1:8000/)
 <hr>
-
-
